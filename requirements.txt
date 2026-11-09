@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+pymupdf
+python-dotenv
+langchain-groq

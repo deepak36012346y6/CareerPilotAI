@@ -1,0 +1,6 @@
+job_title,company,required_skills,job_description
+Python Developer,Tech Solutions,"Python, SQL, Git, Flask","Develop Python applications and APIs"
+Data Analyst,Analytics Hub,"Python, SQL, Excel, Power BI","Analyze data and create business reports"
+Data Scientist,AI Innovations,"Python, SQL, Machine Learning, Statistics","Build predictive models and analyze data"
+Machine Learning Engineer,Future AI,"Python, Machine Learning, Scikit-learn, Git","Develop and deploy machine learning models"
+Data Engineer,Cloud Systems,"Python, SQL, ETL, Data Engineering","Build data pipelines and manage data workflows"
